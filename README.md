@@ -22,68 +22,110 @@ It exists to document:
 
 Whether you're here to remember, study, or recreate — you're in the right place.
 
----
+## 🌐 Internet Platforms & Portals
 
-## 🖥️ Classic Websites
-
-- [GeoCities Archive](https://www.oocities.org/) — Preserved personal homepages filled with tiled backgrounds, blinking text, and pure individuality  
-- [Space Jam Website (1996)] https://www.spacejam.com/1996/ — One of the most famous untouched relics of early web design  
-- [The Million Dollar Homepage](http://www.milliondollarhomepage.com/) — A pixel-based advertising experiment that became a viral phenomenon  
+- Yahoo! — The homepage of the early internet: news, email, directories, and everything in between  
+- AOL — Brought millions online with CDs in the mail, chatrooms, and “You’ve got mail”  
+- WebTV — Early attempt to bring the web to living rooms via television  
 
 ---
 
-## 🎨 Design Trends
+## 🔎 Search Engines (Before Google Took Over)
 
-- **Glitter Text & GIFs** — Flashy, animated, impossible to ignore  
-- **Marquee Text** — `<marquee>` scrolling messages everywhere  
-- **Tiled Backgrounds** — Patterns repeated infinitely across the page  
-- **Visitor Counters** — “You are visitor #000123”  
-- **Under Construction Pages** — Always coming soon… never finished  
+- AltaVista — One of the fastest and most powerful search engines of the 90s  
+- Ask Jeeves — Let users ask questions in plain English, answered by a butler  
+- Lycos — A major early web portal and search engine  
 
 ---
 
-## 💬 Social Web
+## 💬 Communication & Social
 
-- **AIM Profiles** — Custom away messages, song lyrics, cryptic moods  
-- **MySpace Layouts** — Full-page HTML/CSS customization chaos  
-- **Forums & Message Boards** — Avatars, signatures, and long threads  
-- **Guestbooks** — Leave your mark on someone’s homepage  
-
----
-
-## 🎮 Interactive & Flash Era
-
-- Flash games and animations (Newgrounds, Albino Blacksheep, etc.)  
-- Cursor effects and interactive UI elements  
-- Soundboards, mini-games, and experimental experiences  
+- Instant Messaging — AIM, MSN, Yahoo Messenger: status messages, buddy lists, and late-night conversations  
+- Chatrooms — The chaotic, anonymous social hubs of early internet culture  
+- Hotmail — One of the first widely used free web-based email services  
+- MySpace — A chaotic, customizable social network where your profile *was* your personality  
+- Guestbooks — Public message logs where visitors could leave notes on your site  
 
 ---
 
-## 🧰 Tools & Generators
+## 🧍‍♀️ How We Used the Internet
 
-- Blink text generators  
-- Glitter text creators  
-- Hit counter services  
-- Guestbook scripts  
-- Early HTML editors  
+- A/S/L? (Age/Sex/Location) — A universal opener in early chatrooms, often the first question before any real conversation  
+- LOL (Laughing Out Loud) — A foundational way to signal humor or soften tone in text  
+- ROFL (Rolling On the Floor Laughing) — The exaggerated version of “LOL,” used for emphasis  
+- Away Messages — Carefully crafted status updates that doubled as emotional expression or coded communication  
+- Buddy Lists — The social graph before “followers,” where presence (online/offline) actually mattered  
+- “You’ve Got Mail” — The iconic notification voice from AOL  
+
+---
+
+## 💿 Internet Distribution & Access
+
+- AOL Free Trial Discs — Mass-mailed CDs that brought millions online (and somehow never stopped arriving)  
+- Dial-Up Internet — The sound. The waiting. The disconnections  
+- DSL — The first taste of “always-on” internet that felt impossibly fast  
+
+---
+
+## 🎨 Web Features & Aesthetics
+
+- Under Construction Pages — A universal symbol of unfinished ambition  
+- Visitor Counters — “You are visitor #000123”  
+- Glitter Text & GIFs — Flashy, animated, impossible to ignore  
+- Marquee Text — `<marquee>` scrolling messages everywhere  
+- Tiled Backgrounds — Patterns repeated infinitely across the page  
+
+---
+
+## 🎮 Games & Online Worlds
+
+- Neopets — A virtual pet world blending games, economy, and community  
+
+---
+
+## 📦 E-Commerce & Services (Early Days)
+
+- Amazon — Once just an online bookstore, now a global marketplace  
+- Netflix (DVDs by Mail) — Before streaming, DVDs arrived in red envelopes  
+
+---
+
+## 🧠 Web Design & Standards
+
+- A List Apart — Influential publication shaping early web standards and design thinking  
+- Microformats — Early attempts to structure data within HTML before modern APIs  
+
+---
+
+## 🕳️ The Wild / Edgy Web
+
+- Rotten.com — Infamous for graphic and controversial content  
+- The Pirate Bay — A central hub for torrent culture and digital piracy  
+
+---
+
+## 🏴‍☠️ File Sharing & Underground Web
+
+- Torrents — Peer-to-peer file sharing that reshaped how media was distributed  
+
+---
+
+## 🧪 Preservation & Revival
+
+- Wayback Machine — A time machine for browsing archived versions of websites  
+- BlueMaxima's Flashpoint — Massive archive preserving Flash games and animations  
+
+---
+
+## 🌐 Iconic / Experimental Websites
+
+- Purple.com — A single-color page that became a strangely memorable internet artifact  
 
 ---
 
 ## 📼 Media & Viral Culture
 
-- Early YouTube videos  
-- Shock sites (you probably know the ones)  
-- Viral email chains and webpages  
-
----
-
-## 🧠 “You Had to Be There”
-
-The oddly specific things that don’t fit anywhere else.
-
-- Dancing baby GIF  
-- Hampster Dance  
-- “All Your Base Are Belong To Us”  
+- Memes — Before algorithms, memes spread organically through forums, email, and niche sites
 
 ---
 
