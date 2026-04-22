@@ -24,7 +24,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🌐 Internet Platforms & Portals
 
-- **Yahoo!** — The homepage of the early internet: news, email, directories, and everything in between  
+- **[Yahoo!](https://www.yahoo.com)** — The homepage of the early internet: news, email, directories, and everything in between  
 - **AOL** — Brought millions online with CDs in the mail, chatrooms, and “You’ve got mail”  
 - **WebTV** — Early attempt to bring the web to living rooms via television  
 
@@ -89,25 +89,25 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 📦 E-Commerce & Services (Early Days)
 
-- **Amazon** — Once just an online bookstore, now a global marketplace  
-- **Netflix** (DVDs by Mail) — Before streaming, DVDs arrived in red envelopes
-- **eBay** — Online auctions that made buying and selling feel like a game
-- **PayPal** — A foundational tool for sending money online and enabling early internet commerce
-- **Craigslist** — Minimalist classifieds for jobs, housing, personals, and everything in between
+- **[Amazon](https://amazon.com)** — Once just an online bookstore, now a global marketplace  
+- **[Netflix](https://netflix.com)** (DVDs by Mail) — Before streaming, DVDs arrived in red envelopes
+- **[eBay](https://ebay.com)** — Online auctions that made buying and selling feel like a game
+- **[PayPal](https://paypal.com)** — A foundational tool for sending money online and enabling early internet commerce
+- **[Craigslist](https://craigslist.org)** — Minimalist classifieds for jobs, housing, personals, and everything in between
 
 ---
 
 ## 🧠 Web Design & Standards
 
 - **A List Apart** — Influential publication shaping early web standards and design thinking  
-- **Microformats** — Early attempts to structure data within HTML before modern APIs  
+- **[Microformats](https://microformats.org/)** — Early attempts to structure data within HTML before modern APIs  
 
 ---
 
 ## 🕳️ The Wild / Edgy Web
 
 - **Rotten.com** — Infamous for graphic and controversial content  
-- **The Pirate Bay** — A central hub for torrent culture and digital piracy  
+- **[The Pirate Bay](https://thepiratebay.org/index.html)** — A central hub for torrent culture and digital piracy  
 
 ---
 
@@ -122,8 +122,8 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🧪 Preservation & Revival
 
-- **Wayback Machine** — A time machine for browsing archived versions of websites  
-- **BlueMaxima's Flashpoint** — Massive archive preserving Flash games and animations  
+- **[Wayback Machine](https://web.archive.org/)** — A time machine for browsing archived versions of websites  
+- **[BlueMaxima's Flashpoint](https://flashpointarchive.org/)** — Massive archive preserving Flash games and animations  
 
 ---
 
@@ -136,13 +136,13 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 ## 📼 Media & Viral Culture
 
 - **Memes** — Before algorithms, memes spread organically through forums, email, and niche sites
-- **BuzzFeed** — Early viral content factory that helped define shareable internet culture  
-- **RottenTomatoes.com** — Aggregated movie reviews that influenced how audiences judged films
+- **[BuzzFeed](https://www.buzzfeed.com/)** — Early viral content factory that helped define shareable internet culture  
+- **[RottenTomatoes.com](https://www.rottentomatoes.com/)** — Aggregated movie reviews that influenced how audiences judged films
 
 
 ## 📚 Knowledge & Information
 
-- Wikipedia — A collaborative encyclopedia that redefined how information is created and consumed  
+- **[Wikipedia](https://wikipedia.org)** — A collaborative encyclopedia that redefined how information is created and consumed  
 
 ---
 
