@@ -49,6 +49,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **LiveJournal** — Blogging platform centered around personal posts, communities, and digital journaling
 - **Forums** — Threaded discussions, avatars, signatures, and tightly-knit communities
 - **Xanga** — Early blogging platform blending journaling, social interaction, and custom layouts
+- **Flickr** — Photo-sharing platform that helped define early social media and visual culture
 
 ---
 
@@ -107,11 +108,13 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **StumbleUpon** — Randomized web discovery that made browsing feel like exploration  
 - **Polyvore** — Visual collage platform for fashion, design, and curated aesthetics  
 - **Squidoo** — User-generated topic pages blending blogging, curation, and monetization  
-- **Google Reader** — RSS feed reader that gave users control over how they consumed content  
+- **Google Reader** — RSS feed reader that gave users control over how they consumed content
+- **Del.icio.us** — Social bookmarking site that let users tag, organize, and share links 
 
 ## 🧠 Web Design & Standards
 
-- **A List Apart** — Influential publication shaping early web standards and design thinking  
+- **A List Apart** — Influential publication shaping early web standards and design thinking
+- **W3Schools** — A go-to resource for learning HTML, CSS, and basic web development (often a first stop for beginners)  
 - **[Microformats](https://microformats.org/)** — Early attempts to structure data within HTML before modern APIs  
 
 ---
@@ -179,7 +182,20 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 - **Slashdot** — “News for nerds” — one of the earliest tech news aggregation and discussion communities  
 - **The Huffington Post** — Early major blog/news hybrid that helped define digital media publishing  
-- **BuzzFeed** — Viral content factory that helped define shareable internet culture  
+- **BuzzFeed** — Viral content factory that helped define shareable internet culture
+- **How-To Geek** — Practical tech tutorials and explainers for everyday users  
+
+---
+
+## 📝 Content Farms & Early SEO
+
+- **eZineArticles** — Article directory used heavily for SEO and content marketing in the early web
+
+---
+
+## 💌 Personal & Human Internet
+
+- **PostSecret** — Anonymous postcard confessions that revealed the emotional, vulnerable side of the internet
 
 ---
 
