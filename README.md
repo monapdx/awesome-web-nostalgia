@@ -48,6 +48,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Skype** — Early internet calling that made long-distance communication feel free and instant
 - **LiveJournal** — Blogging platform centered around personal posts, communities, and digital journaling
 - **Forums** — Threaded discussions, avatars, signatures, and tightly-knit communities
+- **Xanga** — Early blogging platform blending journaling, social interaction, and custom layouts
 
 ---
 
@@ -83,7 +84,10 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 ## 🎮 Games & Online Worlds
 
 - **Neopets** — A virtual pet world blending games, economy, and community
-- **The Sims** — A life simulation game that blurred the line between gaming and digital storytelling  
+- **The Sims** — A life simulation game that blurred the line between gaming and digital storytelling
+- **Addicting Games** — One of the go-to hubs for quick, addictive browser-based games  
+- **Miniclip** — Massive collection of browser games, from simple puzzles to early multiplayer hits  
+- **Newgrounds** — A legendary platform for Flash games, animations, and independent creators   
 
 ---
 
@@ -94,8 +98,16 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **[eBay](https://ebay.com)** — Online auctions that made buying and selling feel like a game
 - **[PayPal](https://paypal.com)** — A foundational tool for sending money online and enabling early internet commerce
 - **[Craigslist](https://craigslist.org)** — Minimalist classifieds for jobs, housing, personals, and everything in between
+- **ThinkGeek** — Online store for niche, nerdy, and internet culture merchandise
 
 ---
+
+## 🧠 Discovery, Curation & Feeds
+
+- **StumbleUpon** — Randomized web discovery that made browsing feel like exploration  
+- **Polyvore** — Visual collage platform for fashion, design, and curated aesthetics  
+- **Squidoo** — User-generated topic pages blending blogging, curation, and monetization  
+- **Google Reader** — RSS feed reader that gave users control over how they consumed content  
 
 ## 🧠 Web Design & Standards
 
@@ -107,7 +119,8 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 ## 🕳️ The Wild / Edgy Web
 
 - **Rotten.com** — Infamous for graphic and controversial content  
-- **[The Pirate Bay](https://thepiratebay.org/index.html)** — A central hub for torrent culture and digital piracy  
+- **[The Pirate Bay](https://thepiratebay.org/index.html)** — A central hub for torrent culture and digital piracy
+- **4chan** — Anonymous imageboard that influenced meme culture and internet subcultures    
 
 ---
 
@@ -119,6 +132,15 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **LimeWire** — One of the most recognizable P2P clients for downloading music and media  
 
 ---
+
+## 📼 Media & Viral Culture
+
+- **Memes** — Before algorithms, memes spread organically through forums, email, and niche sites  
+- **I Can Has Cheezburger?** — A central hub for LOLcats and early caption-based meme culture  
+- **FAIL Blog** — Popularized the “fail” format and curated user-submitted internet mishaps  
+- **RottenTomatoes.com** — Aggregated movie reviews that influenced how audiences judged films
+
+---  
 
 ## 🧪 Preservation & Revival
 
@@ -143,6 +165,21 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 ## 📚 Knowledge & Information
 
 - **[Wikipedia](https://wikipedia.org)** — A collaborative encyclopedia that redefined how information is created and consumed  
+
+
+## 🧭 Navigation & Utility
+
+- **MapQuest** — Printed directions and early digital maps before GPS and smartphones  
+- **AZLyrics** — A go-to site for quickly finding song lyrics (often questionably sourced)  
+- **The Death Clock** — A darkly humorous site predicting your “time of death” based on simple inputs  
+
+---
+
+## 📰 News, Blogs & Internet Discourse
+
+- **Slashdot** — “News for nerds” — one of the earliest tech news aggregation and discussion communities  
+- **The Huffington Post** — Early major blog/news hybrid that helped define digital media publishing  
+- **BuzzFeed** — Viral content factory that helped define shareable internet culture  
 
 ---
 
