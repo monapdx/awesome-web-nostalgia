@@ -44,7 +44,10 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Chatrooms** — The chaotic, anonymous social hubs of early internet culture  
 - **Hotmail** — One of the first widely used free web-based email services  
 - **MySpace** — A chaotic, customizable social network where your profile *was* your personality  
-- **Guestbooks** — Public message logs where visitors could leave notes on your site  
+- **Guestbooks** — Public message logs where visitors could leave notes on your site
+- **Skype** — Early internet calling that made long-distance communication feel free and instant
+- **LiveJournal** — Blogging platform centered around personal posts, communities, and digital journaling
+- **Forums** — Threaded discussions, avatars, signatures, and tightly-knit communities
 
 ---
 
@@ -79,14 +82,18 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🎮 Games & Online Worlds
 
-- **Neopets** — A virtual pet world blending games, economy, and community  
+- **Neopets** — A virtual pet world blending games, economy, and community
+- **The Sims** — A life simulation game that blurred the line between gaming and digital storytelling  
 
 ---
 
 ## 📦 E-Commerce & Services (Early Days)
 
 - **Amazon** — Once just an online bookstore, now a global marketplace  
-- **Netflix** (DVDs by Mail) — Before streaming, DVDs arrived in red envelopes  
+- **Netflix** (DVDs by Mail) — Before streaming, DVDs arrived in red envelopes
+- **eBay** — Online auctions that made buying and selling feel like a game
+- **PayPal** — A foundational tool for sending money online and enabling early internet commerce
+- **Craigslist** — Minimalist classifieds for jobs, housing, personals, and everything in between
 
 ---
 
@@ -106,7 +113,10 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🏴‍☠️ File Sharing & Underground Web
 
-- **Torrents** — Peer-to-peer file sharing that reshaped how media was distributed  
+- **Torrents** — Peer-to-peer file sharing that reshaped how media was distributed
+- **Napster** — The original peer-to-peer music sharing platform that disrupted the industry  
+- **KaZaa** — A widely used file-sharing network that followed Napster’s rise and fall  
+- **LimeWire** — One of the most recognizable P2P clients for downloading music and media  
 
 ---
 
@@ -126,6 +136,13 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 ## 📼 Media & Viral Culture
 
 - **Memes** — Before algorithms, memes spread organically through forums, email, and niche sites
+- **BuzzFeed** — Early viral content factory that helped define shareable internet culture  
+- **RottenTomatoes.com** — Aggregated movie reviews that influenced how audiences judged films
+
+
+## 📚 Knowledge & Information
+
+- Wikipedia — A collaborative encyclopedia that redefined how information is created and consumed  
 
 ---
 
