@@ -174,7 +174,14 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 - **MapQuest** — Printed directions and early digital maps before GPS and smartphones  
 - **AZLyrics** — A go-to site for quickly finding song lyrics (often questionably sourced)  
-- **The Death Clock** — A darkly humorous site predicting your “time of death” based on simple inputs  
+- **The Death Clock** — A darkly humorous site predicting your “time of death” based on simple inputs
+- **RetailMeNot** — Coupon and deal aggregation for online shopping 
+
+---
+
+## 🧠 Personalization & Dashboards
+
+- **iGoogle** — Customizable homepage with widgets, news, weather, and personal feeds  
 
 ---
 
@@ -183,9 +190,20 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Slashdot** — “News for nerds” — one of the earliest tech news aggregation and discussion communities  
 - **The Huffington Post** — Early major blog/news hybrid that helped define digital media publishing  
 - **BuzzFeed** — Viral content factory that helped define shareable internet culture
-- **How-To Geek** — Practical tech tutorials and explainers for everyday users  
+- **How-To Geek** — Practical tech tutorials and explainers for everyday users
+- **Digg** — Social news aggregation where users voted content to the front page  
+- **Fark** — Community-driven link sharing with humorous, sarcastic headlines
+- **Technorati** — Early blog search engine and authority ranking system  
+- **AllTop** — Curated lists of top blogs and sites across categories
 
 ---
+
+## 🎧 Music, Streaming & Discovery
+
+- **Last.fm** — Music tracking and recommendation service based on listening habits  
+- **Grooveshark** — Early music streaming platform with user-uploaded content
+
+---  
 
 ## 📝 Content Farms & Early SEO
 
