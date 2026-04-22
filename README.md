@@ -24,108 +24,108 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🌐 Internet Platforms & Portals
 
-- Yahoo! — The homepage of the early internet: news, email, directories, and everything in between  
-- AOL — Brought millions online with CDs in the mail, chatrooms, and “You’ve got mail”  
-- WebTV — Early attempt to bring the web to living rooms via television  
+- **Yahoo!** — The homepage of the early internet: news, email, directories, and everything in between  
+- **AOL** — Brought millions online with CDs in the mail, chatrooms, and “You’ve got mail”  
+- **WebTV** — Early attempt to bring the web to living rooms via television  
 
 ---
 
 ## 🔎 Search Engines (Before Google Took Over)
 
-- AltaVista — One of the fastest and most powerful search engines of the 90s  
-- Ask Jeeves — Let users ask questions in plain English, answered by a butler  
-- Lycos — A major early web portal and search engine  
+- **AltaVista** — One of the fastest and most powerful search engines of the 90s  
+- **Ask Jeeves** — Let users ask questions in plain English, answered by a butler  
+- **Lycos** — A major early web portal and search engine  
 
 ---
 
 ## 💬 Communication & Social
 
-- Instant Messaging — AIM, MSN, Yahoo Messenger: status messages, buddy lists, and late-night conversations  
-- Chatrooms — The chaotic, anonymous social hubs of early internet culture  
-- Hotmail — One of the first widely used free web-based email services  
-- MySpace — A chaotic, customizable social network where your profile *was* your personality  
-- Guestbooks — Public message logs where visitors could leave notes on your site  
+- **Instant Messaging** — AIM, MSN, Yahoo Messenger: status messages, buddy lists, and late-night conversations  
+- **Chatrooms** — The chaotic, anonymous social hubs of early internet culture  
+- **Hotmail** — One of the first widely used free web-based email services  
+- **MySpace** — A chaotic, customizable social network where your profile *was* your personality  
+- **Guestbooks** — Public message logs where visitors could leave notes on your site  
 
 ---
 
 ## 🧍‍♀️ How We Used the Internet
 
-- A/S/L? (Age/Sex/Location) — A universal opener in early chatrooms, often the first question before any real conversation  
-- LOL (Laughing Out Loud) — A foundational way to signal humor or soften tone in text  
-- ROFL (Rolling On the Floor Laughing) — The exaggerated version of “LOL,” used for emphasis  
-- Away Messages — Carefully crafted status updates that doubled as emotional expression or coded communication  
-- Buddy Lists — The social graph before “followers,” where presence (online/offline) actually mattered  
-- “You’ve Got Mail” — The iconic notification voice from AOL  
+- **A/S/L?** (Age/Sex/Location) — A universal opener in early chatrooms, often the first question before any real conversation  
+- **LOL** (Laughing Out Loud) — A foundational way to signal humor or soften tone in text  
+- **ROFL** (Rolling On the Floor Laughing) — The exaggerated version of “LOL,” used for emphasis  
+- **Away Messages** — Carefully crafted status updates that doubled as emotional expression or coded communication  
+- **Buddy Lists** — The social graph before “followers,” where presence (online/offline) actually mattered  
+- **“You’ve Got Mail”** — The iconic notification voice from AOL  
 
 ---
 
 ## 💿 Internet Distribution & Access
 
-- AOL Free Trial Discs — Mass-mailed CDs that brought millions online (and somehow never stopped arriving)  
-- Dial-Up Internet — The sound. The waiting. The disconnections  
-- DSL — The first taste of “always-on” internet that felt impossibly fast  
+- **AOL Free Trial Discs** — Mass-mailed CDs that brought millions online (and somehow never stopped arriving)  
+- **Dial-Up Internet** — The sound. The waiting. The disconnections  
+- **DSL** — The first taste of “always-on” internet that felt impossibly fast  
 
 ---
 
 ## 🎨 Web Features & Aesthetics
 
-- Under Construction Pages — A universal symbol of unfinished ambition  
-- Visitor Counters — “You are visitor #000123”  
-- Glitter Text & GIFs — Flashy, animated, impossible to ignore  
-- Marquee Text — `<marquee>` scrolling messages everywhere  
-- Tiled Backgrounds — Patterns repeated infinitely across the page  
+- **Under Construction Pages** — A universal symbol of unfinished ambition  
+- **Visitor Counters** — “You are visitor #000123”  
+- **Glitter Text & GIFs** — Flashy, animated, impossible to ignore  
+- **Marquee Text** — `<marquee>` scrolling messages everywhere  
+- **Tiled Backgrounds** — Patterns repeated infinitely across the page  
 
 ---
 
 ## 🎮 Games & Online Worlds
 
-- Neopets — A virtual pet world blending games, economy, and community  
+- **Neopets** — A virtual pet world blending games, economy, and community  
 
 ---
 
 ## 📦 E-Commerce & Services (Early Days)
 
-- Amazon — Once just an online bookstore, now a global marketplace  
-- Netflix (DVDs by Mail) — Before streaming, DVDs arrived in red envelopes  
+- **Amazon** — Once just an online bookstore, now a global marketplace  
+- **Netflix** (DVDs by Mail) — Before streaming, DVDs arrived in red envelopes  
 
 ---
 
 ## 🧠 Web Design & Standards
 
-- A List Apart — Influential publication shaping early web standards and design thinking  
-- Microformats — Early attempts to structure data within HTML before modern APIs  
+- **A List Apart** — Influential publication shaping early web standards and design thinking  
+- **Microformats** — Early attempts to structure data within HTML before modern APIs  
 
 ---
 
 ## 🕳️ The Wild / Edgy Web
 
-- Rotten.com — Infamous for graphic and controversial content  
-- The Pirate Bay — A central hub for torrent culture and digital piracy  
+- **Rotten.com** — Infamous for graphic and controversial content  
+- **The Pirate Bay** — A central hub for torrent culture and digital piracy  
 
 ---
 
 ## 🏴‍☠️ File Sharing & Underground Web
 
-- Torrents — Peer-to-peer file sharing that reshaped how media was distributed  
+- **Torrents** — Peer-to-peer file sharing that reshaped how media was distributed  
 
 ---
 
 ## 🧪 Preservation & Revival
 
-- Wayback Machine — A time machine for browsing archived versions of websites  
-- BlueMaxima's Flashpoint — Massive archive preserving Flash games and animations  
+- **Wayback Machine** — A time machine for browsing archived versions of websites  
+- **BlueMaxima's Flashpoint** — Massive archive preserving Flash games and animations  
 
 ---
 
 ## 🌐 Iconic / Experimental Websites
 
-- Purple.com — A single-color page that became a strangely memorable internet artifact  
+- **Purple.com** — A single-color page that became a strangely memorable internet artifact  
 
 ---
 
 ## 📼 Media & Viral Culture
 
-- Memes — Before algorithms, memes spread organically through forums, email, and niche sites
+- **Memes** — Before algorithms, memes spread organically through forums, email, and niche sites
 
 ---
 
