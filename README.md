@@ -123,7 +123,8 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 - **Rotten.com** — Infamous for graphic and controversial content  
 - **[The Pirate Bay](https://thepiratebay.org/index.html)** — A central hub for torrent culture and digital piracy
-- **4chan** — Anonymous imageboard that influenced meme culture and internet subcultures    
+- **4chan** — Anonymous imageboard that influenced meme culture and internet subcultures
+- **Goatse** — Infamous shock image often referenced as an early example of the internet’s more extreme and unfiltered side   
 
 ---
 
@@ -142,6 +143,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **I Can Has Cheezburger?** — A central hub for LOLcats and early caption-based meme culture  
 - **FAIL Blog** — Popularized the “fail” format and curated user-submitted internet mishaps  
 - **RottenTomatoes.com** — Aggregated movie reviews that influenced how audiences judged films
+- **All Your Base Are Belong to Us** — Early viral meme originating from a mistranslated video game cutscene
 
 ---  
 
