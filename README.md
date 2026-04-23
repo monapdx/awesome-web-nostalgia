@@ -88,7 +88,8 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **The Sims** — A life simulation game that blurred the line between gaming and digital storytelling
 - **Addicting Games** — One of the go-to hubs for quick, addictive browser-based games  
 - **Miniclip** — Massive collection of browser games, from simple puzzles to early multiplayer hits  
-- **Newgrounds** — A legendary platform for Flash games, animations, and independent creators   
+- **Newgrounds** — A legendary platform for Flash games, animations, and independent creators
+- **Mochi Media** — Flash game publisher that provided in-game advertising for game creators
 
 ---
 
@@ -127,6 +128,12 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Goatse** — Infamous shock image often referenced as an early example of the internet’s more extreme and unfiltered side   
 
 ---
+
+## 🔞 Adult & NSFW Internet
+
+- **ExtraLunchMoney.com** — Early adult-themed gig platform, before OnlyFans years later.
+
+
 
 ## 🏴‍☠️ File Sharing & Underground Web
 
