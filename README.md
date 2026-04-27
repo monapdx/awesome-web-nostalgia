@@ -211,6 +211,14 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 ## 📝 Content Farms & Early SEO
 
 - **[eZineArticles](https://web.archive.org/web/20080614000851/http://ezinearticles.com/)** — Article directory used heavily for SEO and content marketing in the early web
+- **Demand Media (Content Network)** — Parent company behind eHow and other large-scale content production efforts  
+- **InfoBarrel** — Revenue-sharing article platform similar to HubPages
+- **Examiner.com** — Local “experts” writing SEO-driven articles tied to cities and niches  
+- **Helium** — Paid writing platform with rating systems and revenue sharing  
+- **Buzzle** — General article directory heavily used for SEO backlinks
+- **HubPages** — User-generated articles monetized through ads and affiliate links
+- **eHow** — One of the most infamous content farms, producing massive volumes of how-to articles optimized for search traffic  
+- **Associated Content** — Paid contributors small amounts per article; later acquired by Yahoo and became Yahoo Voices     
 
 ---
 
