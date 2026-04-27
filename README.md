@@ -91,6 +91,9 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Miniclip** — Massive collection of browser games, from simple puzzles to early multiplayer hits  
 - **[Newgrounds](https://web.archive.org/web/20080221003622/http://www.newgrounds.com/)** — A legendary platform for Flash games, animations, and independent creators
 - **[Mochi Media](https://web.archive.org/web/20091215053210/http://www.mochimedia.com/)** — Flash game publisher that provided in-game advertising for game creators
+- **[Not Doppler](https://web.archive.org/web/20110208063330/http://www.notdoppler.com/)** — A curated Flash game portal known for hosting high-quality, polished browser games with a cleaner, more selective approach  
+- **[Kongregate](https://web.archive.org/web/20100331012628/http://www.kongregate.com/)** — A major browser gaming platform that introduced accounts, badges, chat, and progression systems—bringing a social layer to Flash games  
+- **[Armor Games](https://web.archive.org/web/20090202031757/http://armorgames.com/)** — A publisher and portal known for high-quality Flash games with distinctive art styles and deeper gameplay experiences 
 
 ---
 
@@ -118,7 +121,12 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 - **[A List Apart](https://web.archive.org/web/20051126014034/http://www.alistapart.com/)** — Influential publication shaping early web standards and design thinking
 - **[W3Schools](https://web.archive.org/web/20060414033354/http://www.w3schools.com/)** — A go-to resource for learning HTML, CSS, and basic web development (often a first stop for beginners)  
-- **[Microformats](https://microformats.org/)** — Early attempts to structure data within HTML before modern APIs  
+- **[Microformats](https://microformats.org/)** — Early attempts to structure data within HTML before modern APIs
+- **[Smashing Magazine](https://www.smashingmagazine.com/)** — One of the most influential web design blogs of the late 2000s, publishing tutorials, UX insights, and design trends that shaped modern front-end development  
+- **[Six Revisions](https://web.archive.org/web/20110201092725/http://sixrevisions.com/)** — A popular blog offering web design tutorials, coding techniques, and inspiration for both designers and developers  
+- **[Noupe](https://web.archive.org/web/20110201092837/http://www.noupe.com/)** — A web design magazine featuring tutorials, resources, and inspiration during the height of the Web 2.0 era  
+- **[Web Creme](https://web.archive.org/web/20090130065533/http://www.webcreme.com/)** — A curated gallery showcasing clean, modern web design trends, often highlighting minimal and polished layouts
+- **[Jeffrey Zeldman](https://www.zeldman.com/)** — A central figure in the web standards movement whose writing and advocacy helped shape modern, semantic, and accessible web design 
 
 ---
 
