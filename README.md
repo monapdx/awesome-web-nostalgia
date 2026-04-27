@@ -122,7 +122,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🕳️ The Wild / Edgy Web
 
-- **Rotten.com** — Infamous for graphic and controversial content  
+- **[Rotten.com](https://web.archive.org/web/20051126000209/http://www.rotten.com/)** — Infamous for graphic and controversial content  
 - **[The Pirate Bay](https://thepiratebay.org/index.html)** — A central hub for torrent culture and digital piracy
 - **4chan** — Anonymous imageboard that influenced meme culture and internet subcultures
 - **Goatse** — Infamous shock image often referenced as an early example of the internet’s more extreme and unfiltered side   
