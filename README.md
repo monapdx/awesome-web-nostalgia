@@ -122,7 +122,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **[A List Apart](https://web.archive.org/web/20051126014034/http://www.alistapart.com/)** — Influential publication shaping early web standards and design thinking
 - **[W3Schools](https://web.archive.org/web/20060414033354/http://www.w3schools.com/)** — A go-to resource for learning HTML, CSS, and basic web development (often a first stop for beginners)  
 - **[Microformats](https://microformats.org/)** — Early attempts to structure data within HTML before modern APIs
-- **[Smashing Magazine](https://www.smashingmagazine.com/)** — One of the most influential web design blogs of the late 2000s, publishing tutorials, UX insights, and design trends that shaped modern front-end development  
+- **[Smashing Magazine](https://web.archive.org/web/20070620145920/http://smashingmagazine.com/)** — One of the most influential web design blogs of the late 2000s, publishing tutorials, UX insights, and design trends that shaped modern front-end development  
 - **[Six Revisions](https://web.archive.org/web/20110201092725/http://sixrevisions.com/)** — A popular blog offering web design tutorials, coding techniques, and inspiration for both designers and developers  
 - **[Noupe](https://web.archive.org/web/20110201092837/http://www.noupe.com/)** — A web design magazine featuring tutorials, resources, and inspiration during the height of the Web 2.0 era  
 - **[Web Creme](https://web.archive.org/web/20090130065533/http://www.webcreme.com/)** — A curated gallery showcasing clean, modern web design trends, often highlighting minimal and polished layouts
