@@ -176,7 +176,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🧭 Navigation & Utility
 
-- **MapQuest** — Printed directions and early digital maps before GPS and smartphones  
+- **[MapQuest](https://web.archive.org/web/20081210012202/http://www.mapquest.com/)** — Printed directions and early digital maps before GPS and smartphones  
 - **AZLyrics** — A go-to site for quickly finding song lyrics (often questionably sourced)  
 - **The Death Clock** — A darkly humorous site predicting your “time of death” based on simple inputs
 - **RetailMeNot** — Coupon and deal aggregation for online shopping 
