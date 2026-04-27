@@ -165,7 +165,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🌐 Iconic / Experimental Websites
 
-- **Purple.com** — A single-color page that became a strangely memorable internet artifact  
+- **[Purple.com](https://web.archive.org/web/20060827055524/http://www.purple.com/purple.html)** — A single-color page that became a strangely memorable internet artifact  
 
 ---
 
