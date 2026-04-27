@@ -108,7 +108,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 - **StumbleUpon** — Randomized web discovery that made browsing feel like exploration  
 - **Polyvore** — Visual collage platform for fashion, design, and curated aesthetics  
-- **Squidoo** — User-generated topic pages blending blogging, curation, and monetization  
+- **[Squidoo](https://web.archive.org/web/20121203004750/http://www.squidoo.com/)** — User-generated topic pages blending blogging, curation, and monetization  
 - **Google Reader** — RSS feed reader that gave users control over how they consumed content
 - **Del.icio.us** — Social bookmarking site that let users tag, organize, and share links 
 
