@@ -230,6 +230,20 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ---
 
+## 💰 Make Money Online
+
+- **[Fiverr](https://www.fiverr.com/)** — A marketplace for digital services where users offer fixed-price gigs, helping popularize the “$5 service” model and making freelancing more accessible  
+- **[Elance](https://web.archive.org/web/20080701000000/http://www.elance.com/)** — One of the earliest major freelance marketplaces connecting clients with remote workers for project-based work (later merged into Upwork) 
+- **[oDesk](https://web.archive.org/web/20100201000000/http://www.odesk.com/)** — A platform focused on hourly remote work and long-term contracts, eventually merging with Elance to form Upwork  
+- **[Freelancer](https://www.freelancer.com/)** — A global freelance marketplace built around competitive bidding for projects across design, development, and writing  
+- **[Amazon Mechanical Turk](https://www.mturk.com/)** — A crowdsourcing platform where users complete small tasks (“HITs”) for micro-payments  
+- **[ClickBank](https://www.clickbank.com/)** — A major affiliate marketplace for digital products, widely used for earning commissions through online marketing  
+- **[Etsy](https://www.etsy.com/)** — A marketplace for handmade, vintage, and creative goods that enabled independent creators to sell directly to customers  
+- **[CafePress](https://www.cafepress.com/)** — A print-on-demand platform allowing users to upload designs and sell them on merchandise like shirts, mugs, and accessories  
+- **[Zazzle](https://www.zazzle.com/)** — Another print-on-demand marketplace where creators could design and sell custom products without holding inventory
+
+--- 
+
 ## 💌 Personal & Human Internet
 
 - **[PostSecret](https://web.archive.org/web/20100127070341/http://postsecret.blogspot.com/)** — Anonymous postcard confessions that revealed the emotional, vulnerable side of the internet
