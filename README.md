@@ -195,7 +195,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **The Huffington Post** — Early major blog/news hybrid that helped define digital media publishing  
 - **How-To Geek** — Practical tech tutorials and explainers for everyday users
 - **[Digg](https://web.archive.org/web/20080708123415/http://digg.com/)** — Social news aggregation where users voted content to the front page  
-- **Fark** — Community-driven link sharing with humorous, sarcastic headlines
+- **[Fark](https://web.archive.org/web/20080501052733/http://www.fark.com/)** — Community-driven link sharing with humorous, sarcastic headlines
 - **Technorati** — Early blog search engine and authority ranking system  
 - **AllTop** — Curated lists of top blogs and sites across categories
 
