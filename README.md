@@ -74,7 +74,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🎨 Web Features & Aesthetics
 
-- **Under Construction Pages** — A universal symbol of unfinished ambition  
+- **[Under Construction Pages](http://textfiles.com/underconstruction/)** — A universal symbol of unfinished ambition  
 - **Visitor Counters** — “You are visitor #000123”  
 - **Glitter Text & GIFs** — Flashy, animated, impossible to ignore  
 - **Marquee Text** — `<marquee>` scrolling messages everywhere  
