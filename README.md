@@ -115,7 +115,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 ## 🧠 Web Design & Standards
 
 - **A List Apart** — Influential publication shaping early web standards and design thinking
-- **W3Schools** — A go-to resource for learning HTML, CSS, and basic web development (often a first stop for beginners)  
+- **[W3Schools](https://web.archive.org/web/20060414033354/http://www.w3schools.com/)** — A go-to resource for learning HTML, CSS, and basic web development (often a first stop for beginners)  
 - **[Microformats](https://microformats.org/)** — Early attempts to structure data within HTML before modern APIs  
 
 ---
