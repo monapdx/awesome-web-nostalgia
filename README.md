@@ -86,9 +86,9 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 - **Neopets** — A virtual pet world blending games, economy, and community
 - **The Sims** — A life simulation game that blurred the line between gaming and digital storytelling
-- **Addicting Games** — One of the go-to hubs for quick, addictive browser-based games  
+- **[Addicting Games](https://web.archive.org/web/20061205020339/http://addictinggames.com/)** — One of the go-to hubs for quick, addictive browser-based games  
 - **Miniclip** — Massive collection of browser games, from simple puzzles to early multiplayer hits  
-- **Newgrounds** — A legendary platform for Flash games, animations, and independent creators
+- **[Newgrounds](https://web.archive.org/web/20080221003622/http://www.newgrounds.com/)** — A legendary platform for Flash games, animations, and independent creators
 - **Mochi Media** — Flash game publisher that provided in-game advertising for game creators
 
 ---
@@ -115,7 +115,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 🧠 Web Design & Standards
 
-- **A List Apart** — Influential publication shaping early web standards and design thinking
+- **[A List Apart](https://web.archive.org/web/20051126014034/http://www.alistapart.com/)** — Influential publication shaping early web standards and design thinking
 - **[W3Schools](https://web.archive.org/web/20060414033354/http://www.w3schools.com/)** — A go-to resource for learning HTML, CSS, and basic web development (often a first stop for beginners)  
 - **[Microformats](https://microformats.org/)** — Early attempts to structure data within HTML before modern APIs  
 
