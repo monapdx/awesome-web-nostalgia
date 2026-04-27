@@ -224,7 +224,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 💌 Personal & Human Internet
 
-- **PostSecret** — Anonymous postcard confessions that revealed the emotional, vulnerable side of the internet
+- **[PostSecret](https://web.archive.org/web/20100127070341/http://postsecret.blogspot.com/)** — Anonymous postcard confessions that revealed the emotional, vulnerable side of the internet
 
 ---
 
