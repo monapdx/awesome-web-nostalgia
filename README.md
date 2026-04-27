@@ -150,7 +150,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Memes** — Before algorithms, memes spread organically through forums, email, and niche sites  
 - **I Can Has Cheezburger?** — A central hub for LOLcats and early caption-based meme culture  
 - **FAIL Blog** — Popularized the “fail” format and curated user-submitted internet mishaps  
-- **All Your Base Are Belong to Us** — Early viral meme originating from a mistranslated video game cutscene
+- **[All Your Base Are Belong to Us](https://knowyourmeme.com/memes/all-your-base-are-belong-to-us)** — Early viral meme originating from a mistranslated video game cutscene
 - **[BuzzFeed](https://www.buzzfeed.com/)** — Early viral content factory that helped define shareable internet culture  
 - **[RottenTomatoes.com](https://www.rottentomatoes.com/)** — Aggregated movie reviews that influenced how audiences judged films
 ---  
