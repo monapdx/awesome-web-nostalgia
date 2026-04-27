@@ -43,7 +43,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Instant Messaging** — AIM, MSN, Yahoo Messenger: status messages, buddy lists, and late-night conversations  
 - **Chatrooms** — The chaotic, anonymous social hubs of early internet culture  
 - **Hotmail** — One of the first widely used free web-based email services  
-- **MySpace** — A chaotic, customizable social network where your profile *was* your personality  
+- **[MySpace](https://web.archive.org/web/20071025001707/http://www.myspace.com/)** — A chaotic, customizable social network where your profile *was* your personality  
 - **Guestbooks** — Public message logs where visitors could leave notes on your site
 - **Skype** — Early internet calling that made long-distance communication feel free and instant
 - **LiveJournal** — Blogging platform centered around personal posts, communities, and digital journaling
