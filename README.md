@@ -149,9 +149,9 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Memes** — Before algorithms, memes spread organically through forums, email, and niche sites  
 - **I Can Has Cheezburger?** — A central hub for LOLcats and early caption-based meme culture  
 - **FAIL Blog** — Popularized the “fail” format and curated user-submitted internet mishaps  
-- **RottenTomatoes.com** — Aggregated movie reviews that influenced how audiences judged films
 - **All Your Base Are Belong to Us** — Early viral meme originating from a mistranslated video game cutscene
-
+- **[BuzzFeed](https://www.buzzfeed.com/)** — Early viral content factory that helped define shareable internet culture  
+- **[RottenTomatoes.com](https://www.rottentomatoes.com/)** — Aggregated movie reviews that influenced how audiences judged films
 ---  
 
 ## 🧪 Preservation & Revival
@@ -166,13 +166,6 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Purple.com** — A single-color page that became a strangely memorable internet artifact  
 
 ---
-
-## 📼 Media & Viral Culture
-
-- **Memes** — Before algorithms, memes spread organically through forums, email, and niche sites
-- **[BuzzFeed](https://www.buzzfeed.com/)** — Early viral content factory that helped define shareable internet culture  
-- **[RottenTomatoes.com](https://www.rottentomatoes.com/)** — Aggregated movie reviews that influenced how audiences judged films
-
 
 ## 📚 Knowledge & Information
 
