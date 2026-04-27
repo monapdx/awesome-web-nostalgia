@@ -11,6 +11,7 @@ Not tools. Not frameworks.
 
 ## Table of Contents
 
+[🌐Internet Platforms & Portals](#🌐-internet-platforms-portals)
  
 ---
 
