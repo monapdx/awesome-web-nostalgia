@@ -78,7 +78,8 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **Visitor Counters** — “You are visitor #000123”  
 - **[Glitter Text & GIFs](https://www.glitter-graphics.com/)** — Flashy, animated, impossible to ignore  
 - **Marquee Text** — `<marquee>` scrolling messages everywhere  
-- **Tiled Backgrounds** — Patterns repeated infinitely across the page  
+- **Tiled Backgrounds** — Patterns repeated infinitely across the page
+- **MIDI Background Music** — Tiny, looping soundtracks embedded directly into webpages 
 
 ---
 
