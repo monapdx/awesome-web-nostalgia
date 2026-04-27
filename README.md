@@ -46,9 +46,9 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **[MySpace](https://web.archive.org/web/20071025001707/http://www.myspace.com/)** — A chaotic, customizable social network where your profile *was* your personality  
 - **Guestbooks** — Public message logs where visitors could leave notes on your site
 - **Skype** — Early internet calling that made long-distance communication feel free and instant
-- **LiveJournal** — Blogging platform centered around personal posts, communities, and digital journaling
+- **[LiveJournal](https://web.archive.org/web/20060812140345/livejournal.com/)** — Blogging platform centered around personal posts, communities, and digital journaling
 - **Forums** — Threaded discussions, avatars, signatures, and tightly-knit communities
-- **Xanga** — Early blogging platform blending journaling, social interaction, and custom layouts
+- **[Xanga](https://web.archive.org/web/20070706152433/http://www.xanga.com/)** — Early blogging platform blending journaling, social interaction, and custom layouts
 - **[Flickr](https://web.archive.org/web/20070606050109/http://www.flickr.com/)** — Photo-sharing platform that helped define early social media and visual culture
 
 ---
@@ -90,7 +90,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **[Addicting Games](https://web.archive.org/web/20061205020339/http://addictinggames.com/)** — One of the go-to hubs for quick, addictive browser-based games  
 - **Miniclip** — Massive collection of browser games, from simple puzzles to early multiplayer hits  
 - **[Newgrounds](https://web.archive.org/web/20080221003622/http://www.newgrounds.com/)** — A legendary platform for Flash games, animations, and independent creators
-- **Mochi Media** — Flash game publisher that provided in-game advertising for game creators
+- **[Mochi Media](https://web.archive.org/web/20091215053210/http://www.mochimedia.com/)** — Flash game publisher that provided in-game advertising for game creators
 
 ---
 
