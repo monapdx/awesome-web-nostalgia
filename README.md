@@ -110,7 +110,8 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **[Polyvore](https://web.archive.org/web/20131225021626/http://www.polyvore.com/)** — Visual collage platform for fashion, design, and curated aesthetics  
 - **[Squidoo](https://web.archive.org/web/20121203004750/http://www.squidoo.com/)** — User-generated topic pages blending blogging, curation, and monetization  
 - **Google Reader** — RSS feed reader that gave users control over how they consumed content
-- **[Del.icio.us](https://web.archive.org/web/20061213023207/http://del.icio.us/)** — Social bookmarking site that let users tag, organize, and share links 
+- **[Del.icio.us](https://web.archive.org/web/20061213023207/http://del.icio.us/)** — Social bookmarking site that let users tag, organize, and share links
+- **[Go2Web20.net](https://web.archive.org/web/20100701015307/http://www.go2web20.net/)** — A massive, tag-based directory of Web 2.0 apps where you could explore thousands of tools by category, popularity, and recency. It made the exploding ecosystem of early social/web apps feel navigable and discoverable
 
 ## 🧠 Web Design & Standards
 
