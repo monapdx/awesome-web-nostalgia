@@ -10,39 +10,7 @@ Not tools. Not frameworks.
 ---
 
 ## Table of Contents
-- [✨ Awesome Web Nostalgia](#awesome-web-nostalgia)
-  - [🧠 What is this?](#what-is-this)
-  - [🌐 Internet Platforms & Portals](#internet-platforms-portals)
-  - [🔎 Search Engines (Before Google Took Over)](#search-engines-before-google-took-over)
-  - [💬 Communication & Social](#communication-social)
-  - [🧍‍♀️ How We Used the Internet](#how-we-used-the-internet)
-  - [💿 Internet Distribution & Access](#internet-distribution-access)
-  - [🎨 Web Features & Aesthetics](#web-features-aesthetics)
-  - [🎮 Games & Online Worlds](#games-online-worlds)
-  - [📦 E-Commerce & Services (Early Days)](#e-commerce-services-early-days)
-  - [🧠 Discovery, Curation & Feeds](#discovery-curation-feeds)
-  - [🧠 Web Design & Standards](#web-design-standards)
-  - [🕳️ The Wild / Edgy Web](#the-wild-edgy-web)
-  - [🔞 Adult & NSFW Internet](#adult-nsfw-internet)
-  - [🏴‍☠️ File Sharing & Underground Web](#file-sharing-underground-web)
-  - [📼 Media & Viral Culture](#media-viral-culture)
-  - [🧪 Preservation & Revival](#preservation-revival)
-  - [🌐 Iconic / Experimental Websites](#iconic-experimental-websites)
-  - [📚 Knowledge & Information](#knowledge-information)
-  - [🧭 Navigation & Utility](#navigation-utility)
-  - [🧠 Personalization & Dashboards](#personalization-dashboards)
-  - [📰 News, Blogs & Internet Discourse](#news-blogs-internet-discourse)
-  - [🎧 Music, Streaming & Discovery](#music-streaming-discovery)
-  - [📝 Content Farms & Early SEO](#content-farms-early-seo)
-  - [💰 Make Money Online](#make-money-online)
-  - [💌 Personal & Human Internet](#personal-human-internet)
-  - [🧪 Recreate This](#recreate-this)
-  - [🤝 Contributing](#contributing)
-    - [What you can add:](#what-you-can-add)
-    - [Guidelines:](#guidelines)
-  - [🪄 How to Contribute](#how-to-contribute)
-  - [🌐 Why this exists](#why-this-exists)
-  - [⭐ Support](#support)
+
  
 ---
 
