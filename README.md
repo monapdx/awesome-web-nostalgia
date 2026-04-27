@@ -49,7 +49,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **LiveJournal** — Blogging platform centered around personal posts, communities, and digital journaling
 - **Forums** — Threaded discussions, avatars, signatures, and tightly-knit communities
 - **Xanga** — Early blogging platform blending journaling, social interaction, and custom layouts
-- **Flickr** — Photo-sharing platform that helped define early social media and visual culture
+- **[Flickr](https://web.archive.org/web/20070606050109/http://www.flickr.com/)** — Photo-sharing platform that helped define early social media and visual culture
 
 ---
 
