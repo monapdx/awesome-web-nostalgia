@@ -76,7 +76,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 - **[Under Construction Pages](http://textfiles.com/underconstruction/)** — A universal symbol of unfinished ambition  
 - **Visitor Counters** — “You are visitor #000123”  
-- **Glitter Text & GIFs** — Flashy, animated, impossible to ignore  
+- **[Glitter Text & GIFs](https://www.glitter-graphics.com/)** — Flashy, animated, impossible to ignore  
 - **Marquee Text** — `<marquee>` scrolling messages everywhere  
 - **Tiled Backgrounds** — Patterns repeated infinitely across the page  
 
