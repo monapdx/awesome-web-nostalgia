@@ -210,7 +210,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 
 ## 📝 Content Farms & Early SEO
 
-- **eZineArticles** — Article directory used heavily for SEO and content marketing in the early web
+- **[eZineArticles](https://web.archive.org/web/20080614000851/http://ezinearticles.com/)** — Article directory used heavily for SEO and content marketing in the early web
 
 ---
 
