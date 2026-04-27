@@ -60,7 +60,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 - **ROFL** (Rolling On the Floor Laughing) — The exaggerated version of “LOL,” used for emphasis  
 - **Away Messages** — Carefully crafted status updates that doubled as emotional expression or coded communication  
 - **[Buddy Lists](https://archive.org/details/im_20191103/You've+Got+Mail.wav)** — The social graph before “followers,” where presence (online/offline) actually mattered  
-- **“You’ve Got Mail”** — The iconic notification voice from AOL  
+- **[“You’ve Got Mail”](AOL You've Got Mail Sound Effect.mp3)** — The iconic notification voice from AOL  
 
 ---
 
