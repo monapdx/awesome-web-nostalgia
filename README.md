@@ -67,7 +67,7 @@ Whether you're here to remember, study, or recreate — you're in the right plac
 ## 💿 Internet Distribution & Access
 
 - **AOL Free Trial Discs** — Mass-mailed CDs that brought millions online (and somehow never stopped arriving)  
-- **Dial-Up Internet** — The sound. The waiting. The disconnections  
+- **[Dial-Up Internet](https://github.com/monapdx/awesome-web-nostalgia/blob/97159d39c93578b287ee2254798f0fc519aa1590/dial-up%20sound.mp3)** — The sound. The waiting. The disconnections  
 - **DSL** — The first taste of “always-on” internet that felt impossibly fast  
 
 ---
