@@ -1,0 +1,73 @@
+name: Add Wayback Archive Link
+description: Submit a Wayback Machine link for a defunct site in the repo
+title: "[Archive Link] "
+labels: ["archive-links"]
+assignees: []
+
+body:
+  - type: input
+    id: site_name
+    attributes:
+      label: Site Name
+      description: Name of the website as it appears in the repo
+      placeholder: e.g. Go2Web20.net
+    validations:
+      required: true
+
+  - type: input
+    id: repo_section
+    attributes:
+      label: Section in Repo
+      description: Where does this entry belong?
+      placeholder: e.g. Discovery, Curation & Feeds
+    validations:
+      required: true
+
+  - type: input
+    id: wayback_link
+    attributes:
+      label: Wayback Machine Link
+      description: Paste the archive.org URL
+      placeholder: https://web.archive.org/web/...
+    validations:
+      required: true
+
+  - type: input
+    id: snapshot_year
+    attributes:
+      label: Snapshot Year
+      description: What year is this snapshot from? (aim for 2006–2013)
+      placeholder: e.g. 2010
+    validations:
+      required: true
+
+  - type: textarea
+    id: why_this_snapshot
+    attributes:
+      label: Why this snapshot?
+      description: What makes this version a good representation of the site?
+      placeholder: Fully loaded UI, shows main features, matches how people remember it
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes (optional)
+      description: Anything else worth mentioning
+      placeholder: Broken images, alternate snapshots, etc.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Please confirm before submitting
+      options:
+        - label: This site does not already have a Wayback link in the repo
+          required: true
+        - label: The snapshot loads properly (not broken or empty)
+          required: true
+        - label: The snapshot is from roughly 2006–2013
+          required: true
