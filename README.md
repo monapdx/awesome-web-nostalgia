@@ -7,7 +7,7 @@ This is a living archive of internet culture from the late 90s through the mid-2
 Not tools. Not frameworks.  
 **Just the web as it felt.**
 
-<img src="https://raw.githubusercontent.com/monapdx/awesome-web-nostalgia/refs/heads/main/unnamed%20(2).gif">
+<img src="https://raw.githubusercontent.com/monapdx/awesome-web-nostalgia/refs/heads/main/Dial%20Up%20The%20Struggle%20GIF.gif">
 
 ---
 
